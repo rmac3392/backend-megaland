@@ -1,0 +1,1 @@
+<?php// Heading$_['heading_title'] = 'Our Agents';// Text$_['text_tax']      	= 'Ex Tax:';$_['text_view']      	= 'Bekijk profiel:';$_['text_viewmore']     = 'Bekijk profiel...';$_['text_property']     = 'Eigendom';

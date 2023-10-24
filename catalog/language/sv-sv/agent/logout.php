@@ -1,0 +1,1 @@
+<?php// Heading$_['heading_title']     = 'Agent Logga ut';// Text$_['text_message']      = '<p>Du har loggats av din agent. Det är nu säkert att lämna datorn.</p><p>Din kundvagn har sparats, objekten inuti den kommer att återställas när du loggar in i din agent igen.</p>';$_['text_register']     = 'Bli Medlem';$_['text_login']        = 'Logga in';

@@ -1,0 +1,1 @@
+<?php// Heading$_['heading_title']        = 'instrumentbræt';// dashboard$_['dashboard_properties']        = 'Ejendomme';$_['dashboard_enquiries']         = 'Forespørgsler';///listing  agent Dashboard $_['column_name']                   = 'Navn';$_['column_email']      		    = 'E-mail';$_['column_descriptions']           = 'Beskrivelser';

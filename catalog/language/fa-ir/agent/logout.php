@@ -1,0 +1,1 @@
+<?php// Heading$_['heading_title']     = 'Agent Logout';// Text$_['text_message']      = '<p>Jo binne oanmeld út jo agent. It is no feilich om de kompjûter te ferlitten.</p><p>Jo winkelbewurking is bewarre, de items dy't binnen it werneare wurde as jo wergean yn jo agent.</p>';$_['text_register']     = 'Ynskriuwe';$_['text_login']        = 'Ynlogge';
